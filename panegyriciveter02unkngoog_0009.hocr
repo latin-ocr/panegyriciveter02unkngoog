@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./panegyriciveter02unkngoog_0009.png"; bbox 0 0 3060 4902; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 698 1854 2485 1976">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 698 1854 2485 1976">
+     <span class='ocr_line' id='line_1_1' title="bbox 698 1854 2485 1976; baseline 0 -4"><span class='ocrx_word' id='word_1_1' title='bbox 698 1854 1287 1976; x_wconf 83' lang='lat' dir='ltr'><strong>NOTAE</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 1402 1854 2485 1973; x_wconf 81' lang='lat' dir='ltr'><strong>VARIORUM</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 450 2527 2916 2626">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 450 2527 2916 2626">
+     <span class='ocr_line' id='line_1_2' title="bbox 450 2527 2916 2626; baseline -0.004 0"><span class='ocrx_word' id='word_1_3' title='bbox 450 2534 586 2626; x_wconf 89' lang='lat' dir='ltr'><strong>C.</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 708 2528 1222 2617; x_wconf 93' lang='lat' dir='ltr'>PLINII</span> <span class='ocrx_word' id='word_1_5' title='bbox 1327 2527 1942 2619; x_wconf 84' lang='lat' dir='ltr'><strong>CAECILII</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 2045 2528 2712 2623; x_wconf 90' lang='lat' dir='ltr'><strong>SECUNDI</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 2912 2579 2916 2584; x_wconf 93' lang='lat'><em>·</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1096 2900 2145 2976">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1096 2900 2145 2976">
+     <span class='ocr_line' id='line_1_3' title="bbox 1096 2900 2145 2976; baseline 0.003 -5"><span class='ocrx_word' id='word_1_8' title='bbox 1096 2900 2145 2976; x_wconf 72' lang='lat' dir='ltr'><strong>PANEGYRICUM.</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
